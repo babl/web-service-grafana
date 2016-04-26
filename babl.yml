@@ -1,1 +1,5 @@
 id: babl/grafana
+cmd: prometheus -config.file=/etc/prometheus.yml -web.listen-address=":$PORT"
+mem: 32
+env:
+  SERVICE_TAGS: web
