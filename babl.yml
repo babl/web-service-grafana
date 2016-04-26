@@ -1,4 +1,5 @@
 id: babl/grafana
+cmd: /run.sh
 build: false
 mem: 32
 env:
