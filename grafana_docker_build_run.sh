@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GRAFANA_VERSION="v3.0.5"
+GRAFANA_VERSION="v3.0.6"
 
 docker build -t nneves-grafana:$GRAFANA_VERSION .
 
