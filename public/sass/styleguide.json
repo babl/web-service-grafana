@@ -37,8 +37,8 @@
         "$scrollbarBackground2": "#3a3a3a",
         "$dropdownDividerBottom": "#444",
         "$wellBackground": "#131517",
-        "$errorText": "#b94a48",
-        "$successText": "#468847"
+        "$errorText": "#E84D4D",
+        "$successText": "#12D95A"
     },
     "light": {
         "$black": "#000",
@@ -69,7 +69,7 @@
         "$warn": "#F79520",
         "$critical": "#EC2128",
         "$navbarBackgroundHighlight": "#f8f8f8",
-        "$navbarBackground": "#ffffff",
+        "$navbarBackground": "#f8f8f8",
         "$navbarText": "#666",
         "$navbarLinkColor": "#666",
         "$navbarLinkColorHover": "#333",
