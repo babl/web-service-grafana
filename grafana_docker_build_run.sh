@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GRAFANA_VERSION="v3.0.4-12"
+GRAFANA_VERSION="v3.1.1-1"
 
 docker build -t babl-grafana:$GRAFANA_VERSION .
 
