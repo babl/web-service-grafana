@@ -1,5 +1,7 @@
 id: babl/grafana
 cmd: GF_SERVER_HTTP_PORT=$PORT /run.sh
 mem: 32
+build: false
+deploy: false
 env:
   SERVICE_TAGS: web
